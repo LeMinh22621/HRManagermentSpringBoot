@@ -18,5 +18,7 @@
 ● automated (Boolean)
 
 <h2> Result <h2>
+
 ![image](https://user-images.githubusercontent.com/79785621/211721701-f1c34866-c02e-4d97-91e3-de3985d8574e.png)
+
 ![image](https://user-images.githubusercontent.com/79785621/211722222-b0737807-9a65-42c9-8856-e9fdbf77f532.png)
