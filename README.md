@@ -17,6 +17,16 @@
 
 ● automated (Boolean)
 
+Requirements:
+1. Design a database schema to model all three classes (Employee, Developer, Tester).
+2. Create 5 Developer objects and save them into the database.
+3. Create 5 Tester objects and save them into the database.
+4. Fetch all employees (5 developers and 5 testers) from the database and display each object’s
+yearly salary.
+5. Give each employee a 10% raise and save them into the database again.
+6. Delete 2 employees that have the lowest monthly salary from the database.
+7. Fetch all employees from the database and display each object’s yearly salary.
+
 <h2> Result <h2>
 
 ![image](https://user-images.githubusercontent.com/79785621/211721701-f1c34866-c02e-4d97-91e3-de3985d8574e.png)
